@@ -2,10 +2,5 @@ test
 test2
 test3
 test4
-<<<<<<< HEAD
 test6
 test5
-
-=======
-test5
->>>>>>> 29d07607e32df9bec0d68b39c276e1c389450415
